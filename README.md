@@ -1,5 +1,4 @@
 # News-Title-Generation-with-LSTMs
-# News Title Generation with LSTMs
 
 ## Overview
 This repository implements a text generation model using LSTM networks to generate political news titles based on the **News Category Dataset**. The goal is to train an LSTM-based model to minimize perplexity while generating credible and coherent news headlines.
